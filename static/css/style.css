@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+body {
+    background-color:rgb(253, 223, 238);
+    font-family: 'Gamja Flower';
+    font-size:25px;
+    border: medium dotted rgb(179, 112, 139);
+}
+
+h1 {
+    color:rgb(247, 129, 162);
+    font-size:40px;
+    margin-bottom:-9px;
+    font-family:'Chewy';
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    color:rgb(211, 140, 200);
+    line-height:0.2;
+    text-decoration: underline wavy 1px;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
